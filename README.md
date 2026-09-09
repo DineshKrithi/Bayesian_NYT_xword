@@ -8,6 +8,6 @@ Between these archival solves and the daily ones, I now have a dataset of nearly
 
 ### A peek at the results
 
-<img src="figures/ability_over_time.png" width="600" alt="Latent skill over time">
+<img src="figures/ability_over_time.png" width="600" height = "400" alt="Latent skill over time">
 
-I am happy to report that I am nearly 60% faster on average than I was when I started solving crosswords. Read on to find out how I estimated this and how we can mathematically show that a Sunday crossword is just a Thursday crossword but bigger and why [Brad Wilber] (https://www.xwordinfo.com/Author/Brad_Wilber) is the constructor I find the most difficult. 
+I am happy to report that I am nearly 60% faster on average than I was when I started solving crosswords. Read on to find out how I estimated this and how we can mathematically show that a Sunday crossword is just a Thursday crossword but bigger and why [Brad Wilber](https://www.xwordinfo.com/Author/Brad_Wilber) is the constructor I find the most difficult. 
