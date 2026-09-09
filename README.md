@@ -1,3 +1,5 @@
+### The NYT crossword project
+
 I have been a diligent solver of the [NYT daily crosswords](https://www.nytimes.com/crosswords) for over 10 years now. 
 
 I was introduced to American style crosswords during my Ann Arbor days with the [daily crossword in the Michigan Daily](https://games.michigandaily.com/). I subscribed to New York Times and started solving their crosswords in 2016. I was able to solve the early-week puzzles (Mon-Wed) reasonably well but struggled with late-week puzzles. In an attempt to get better at the Fri/Sat themeless puzzles, I started solving some puzzles from the archives.
